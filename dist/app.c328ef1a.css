@@ -1,0 +1,18 @@
+:root {
+  --font-color: #3f414d;
+  --main-color: #f3f3f3; }
+
+body {
+  font-size: 14px;
+  margin: 0; }
+
+* {
+  box-sizing: border-box; }
+
+.header {
+  padding: 15px 0; }
+
+.wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%; }
